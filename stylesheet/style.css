@@ -1,5 +1,6 @@
 * {
-    background-color:rgb(100,100,100) ;
+    background-color:rgb(172, 207, 191);
+    padding: 1px;
 }
 
 .C {
@@ -11,4 +12,11 @@
 .imgs {
     width: 500px;
     height:auto;
+}
+.r {
+    font-size: 100px;
+    background-color: honeydew;
+    color: darkolivegreen;
+    border-radius: 1000px;
+    border: black 3px dotted;
 }
